@@ -1,6 +1,8 @@
 # Landing page
 A simple landing page design by using mostly flexbox as project guided by The Odin Project. By practicing flex theories, build this project as I learnt. As a project idea, I inspire [cdbaby.com](https://cdbaby.com/) mostly. Photos & contents are all credit to inspired website. 
 
+Alert : This project is only built for desktop size.
+
 Note: This project is a part of The Odin Project.
 
 ## Demo
